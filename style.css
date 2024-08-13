@@ -1,0 +1,53 @@
+body{
+    font-family:arial,sans-serif;
+    margin:500px;
+    padding:10px;
+    font-display:flex;
+    font-style:italic;   
+    background-color: rgb(114, 103, 103);
+    font-size: large;
+    color:white;
+    text-align: center;
+    justify-content: center;
+}
+.profile
+{
+    background-color:rgb(83, 55, 161); 
+    font-size:55px;
+    color:rgb(190, 154, 231);
+
+}
+
+.a
+{
+    margin:10px;
+    padding:1 px;    
+    font-style:italic;
+    background-color:black;
+    font-size:30px;
+    color:yellow;       
+    justify-content:center;
+    text-align: center;
+}
+.n
+{
+    margin:10px;
+    padding:0px;
+    height: 10%;
+    width:20%;
+    border-radius: 8px;
+    box-shadow: 0;
+    justify-content: center;
+
+}
+.p
+{
+    margin:50px;
+    padding:0px;
+    border-radius: 8px;
+    box-shadow: 0;
+    font-size: 20px;
+    color: blanchedalmond;
+    justify-content: center;
+  
+}
